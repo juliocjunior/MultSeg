@@ -46,6 +46,11 @@ header h1 {
     color: #fff;
 }
 
+#fale-conosco,
+#maxima-segurança {
+    background-color: #0d6dfd12;
+}
+
 #fale-conosco button:hover {
     border: solid 2px rgba(0, 0, 0, 0.694);
     color: rgba(0, 0, 0, 0.696);
